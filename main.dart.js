@@ -43093,7 +43093,7 @@ A.ah5.prototype={
 $0(){return A.dD($.ait())},
 $S:0}
 A.ahw.prototype={
-$0(){A.dD(A.tW("https","goo.gl","/maps/YDFt3w2xWAu3nwD17",null))},
+$0(){A.dD(A.tW("https","maps.app.goo.gl","/GgCJKmjexDHLrpBf6",null))},
 $S:0}
 A.ahx.prototype={
 $0(){A.ai_("tel:+98-9354492839")},
